@@ -10,7 +10,7 @@
 
 Theme based on the skin for Kodi Eminence 2, which opts for a minimalist, clean and modern style
 
-### inspiration
+### Inspiration
 
 <p align="middle">
   <img width="48%" src="https://www.videoconverterfactory.com/kodi/imgs-self/eminence-2-mod/eminence-2-mod-00.jpg">
@@ -39,12 +39,21 @@ Theme based on the skin for Kodi Eminence 2, which opts for a minimalist, clean 
 
 <p align="middle">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot1.png"> 
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot3.png">  
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot3.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot5.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot7.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot9.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot11.png">
 </p>
 
 #### Ominence Extended
 
 <p align="middle">
-   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot2.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot2.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot4.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot6.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot8.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot10.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot12.png">  
 </p>
+
