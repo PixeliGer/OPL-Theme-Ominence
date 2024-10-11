@@ -8,7 +8,7 @@
 [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
 
 [ominence]: https://github.com/PixeliGer/OPL-Theme-Ominence/releases
-[download-ominence]: https://img.shields.io/badge/Download%20🡇-87CF3E?style=for-the-badge
+[download-ominence]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
 
 ## About
 
