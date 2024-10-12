@@ -1,9 +1,14 @@
 # Ominence Theme
 
+<p align="center">
+  <img src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/logo.png">
+</p>
+
 <div align=center>
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
   [![][made-with]][gimp]
+  [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Ominence/total?style=for-the-badge)]()
   
   [gimp]: https://www.gimp.org/
   [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
@@ -15,17 +20,7 @@
   
 </div>
 
-## About
-
-<p align="center">
-  <img src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/logo.png">
-</p>
-
-Open PS2 Loader theme based on Eminence 2 Kodi theme
-
-## Description
-
-Theme based on the skin for Kodi Eminence 2, which opts for a minimalist, clean and modern style
+**Ominence** theme for Open PS2 Loader, inspired by the **Eminence 2** skin for Kodi, showcases a sleek and contemporary design. This theme emphasizes simplicity and elegance, providing users with a visually appealing and intuitive interface, ensuring a clean and modern user experience that enhances both functionality and style.
 
 ## Inspiration
 
