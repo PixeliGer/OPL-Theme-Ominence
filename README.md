@@ -15,7 +15,7 @@
   
   [![][download-ominence]][ominence]
   
-  [ominence]: https://github.com/PixeliGer/OPL-Theme-Ominence/releases
+  [ominence]: https://github.com/PixeliGer/OPL-Theme-Ominence/releases/latest
   [download-ominence]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
   
 </div>
