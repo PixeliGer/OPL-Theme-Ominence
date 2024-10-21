@@ -98,21 +98,21 @@ THM/
 > [!NOTE]  
 > Themes must be placed inside a folder named `THM` (in uppercase) for any of the devices: SMB share, HDD, USB, SD (MX4SIO), once the device starts, OPL will list the themes found in these locations
 
-SMB (Network Share)
+* **SMB** (Network Share)
 In the root directory or drive you set as your PS2SMB share, in a THM folder
 
 ```
 PS2SMB/THM/thm_Ominence/
 ```
 
-USB, SD device
+* **USB**, **SD** device
 In the root of the drive or partition set for OPL, in a THM folder
 
 ```
 mass:/THM/thm_Ominence/
 ```
 
-HDD (Internal hard drive)
+* **HDD** (Internal hard drive)
 Place the THM folder in the `OPL Partition` of the HDD `+OPL`, you can create the partition if it doesn't exist, by using `uLaunchELF`: [FileBrowser > MISC > HddManager]
 
 ```
