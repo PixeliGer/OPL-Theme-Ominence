@@ -83,7 +83,7 @@ POPS/
 THM/
 VMC/
 ```
-#### 2. Download one of the zip files that contains one the Theme variants from the Releases page, using the green DOWNLOAD button at the top, (make sure it's one with the `thm_` prefix in its name)
+#### 2. Download one of the zip files that contains one the Theme variants from the [Releases](https://github.com/PixeliGer/OPL-Theme-Ominence/releases/latest) page or using the green DOWNLOAD button at the top, (make sure it's one with the `thm_` prefix in its name)
 ```
 thm_Ominence
 thm_Ominence-Extended
@@ -127,7 +127,7 @@ hdd0:/+OPL/THM/thm_Ominence/
 #### 5. Go to OPL Settings and then Display Settings. In the ‘Theme’ option, find and select your theme, then click `OK` to apply it.
 
 
-## 💡 Recomendations
+## 💡 Recommendations
 
 To enhance your experience with the theme, consider these recommendations:
 
