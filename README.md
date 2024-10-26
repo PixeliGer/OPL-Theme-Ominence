@@ -83,7 +83,7 @@ POPS/
 THM/
 VMC/
 ```
-#### 2. Download one of the zip files that contains one the Theme variants from the [Releases](https://github.com/PixeliGer/OPL-Theme-Ominence/releases/latest) page or using the green DOWNLOAD button at the top, (make sure it's one with the `thm_` prefix in its name)
+#### 2. Download one of the zip files that contains one of the Theme variants from the [Releases](https://github.com/PixeliGer/OPL-Theme-Ominence/releases/latest) page or using the green DOWNLOAD button at the top, (make sure it's one with the `thm_` prefix in its name)
 ```
 thm_Ominence
 thm_Ominence-Extended
