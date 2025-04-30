@@ -55,7 +55,14 @@
 ## 🎨 Different Color Variants
 
 <p align="middle">
-  <img src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/ominence_colors.png"> 
+  <img width="50%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/ominence_colors.png"> 
+</p>
+
+#### 🌟 New Icons 🌟
+* Fav Icon for `Favourites` (for [uOPL](https://www.psx-place.com/resources/abandoned-unofficial-open-ps2-loader-uopl.1523/))
+* MMCE Icon for `MMCE Device` (for [OPM MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)) 
+<p align="middle">
+  <img width="50%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/ominence_new_icons.png"> 
 </p>
 
 ## 📸 Screenshots
