@@ -8,15 +8,16 @@
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
   [![][made-with]][gimp]
+  ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&logoSize=auto&label=Made%20For)
   [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Ominence/total?style=for-the-badge)]()
   
   [gimp]: https://www.gimp.org/
   [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
+
+  [![][download-opl-theme]][opl-theme]
   
-  [![][download-ominence]][ominence]
-  
-  [ominence]: https://github.com/PixeliGer/OPL-Theme-Ominence/releases/latest
-  [download-ominence]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
+  [opl-theme]: https://github.com/PixeliGer/OPL-Theme-Ominence/releases/latest
+  [download-opl-theme]: https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white
   
 </div>
 
@@ -60,7 +61,7 @@
 
 #### 🌟 New Icons 🌟
 * Fav Icon for `Favourites` (for [uOPL](https://www.psx-place.com/resources/abandoned-unofficial-open-ps2-loader-uopl.1523/))
-* MMCE Icon for `MMCE Device` (for [OPM MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)) 
+* MMCE Icon for `MMCE Device` (for [OPL MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)) 
 <p align="middle">
   <img width="50%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/ominence_new_icons.png"> 
 </p>
@@ -160,5 +161,5 @@ To enhance your experience with the theme, consider these recommendations:
 * Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
 * Download the assets for the `ART` folder (Background Image, Cover, Screenshots, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
 * Use **OPL Manager** to edit the `CFG` files for each game, to correctly display the description, rating and release.
-* Use `MM-DD-YYYY` format for the release date in the Information section for optimal display.
+* Use `MM-DD-YYYY` or `MM/DD/YYYY` format for the release date in the Information section, for optimal display.
 * Enable Widescreen mode in OPL Settings for better text visibility.
