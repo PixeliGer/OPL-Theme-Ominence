@@ -39,9 +39,9 @@
 ## 🌱 Inspiration
 
 <p align="middle">
-  <img width="48%" src="https://www.videoconverterfactory.com/kodi/imgs-self/eminence-2-mod/eminence-2-mod-00.jpg">
-  <img width="48%" src="https://i.imgur.com/5HSXS60.png">
-  <img width="48%" src="https://i.imgur.com/5t4cNNq.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/inspiration/reference_1.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/inspiration/reference_2.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/inspiration/reference_3.png">
 </p>
 
 ## ✨ Features
