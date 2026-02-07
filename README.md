@@ -1,29 +1,24 @@
 # Ominence Theme
 
 <p align="center">
-  <img src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/logo.png">
+  <img width="320" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/logo.png">
 </p>
 
-<div align=center>
+<div align="center">
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
-  [![][made-with]][gimp]
+  [![Made With GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&label=Made%20With)](https://www.gimp.org/)
   ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&logoSize=auto&label=Made%20For)
-  [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Ominence/total?style=for-the-badge)]()
-  
-  [gimp]: https://www.gimp.org/
-  [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
+  ![Downloads](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Ominence/total?style=for-the-badge)
 
-  [![][download-opl-theme]][opl-theme]
-  
-  [opl-theme]: https://github.com/PixeliGer/OPL-Theme-Ominence/releases/latest
-  [download-opl-theme]: https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white
+  [![Download Theme](https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PixeliGer/OPL-Theme-Ominence/releases/latest)
   
 </div>
 
-**Ominence** theme for Open PS2 Loader, inspired by the **Eminence 2** skin for Kodi, showcases a sleek and contemporary design. This theme emphasizes simplicity and elegance, providing users with a visually appealing and intuitive interface, ensuring a clean and modern user experience that enhances both functionality and style.
+**Ominence** theme for Open PS2 Loader is inspired by the elegant design of **Eminence 2** for Kodi, featuring a minimalist and sophisticated interface that prioritizes simplicity and intuitive navigation for an enhanced user experience.
 
-<div align = middle>
+
+<div align="center">
   <br>
   
   &ensp;[<kbd> <br> Installation <br> </kbd>](#-installation)&ensp;
@@ -38,31 +33,34 @@
 
 ## 🌱 Inspiration
 
-<p align="middle">
+<p align="center">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/inspiration/reference_1.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/inspiration/reference_2.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/inspiration/reference_3.png">
 </p>
 
 ## ✨ Features
-* Minimalist and compact design
-* Show the data of each game in a simple way
-* 2 variants, Simple and Extended (to show cover and screenshot)
-* 8 different colors
-* Working with HD/Full-HD on 16:9 and 4:3
-* Support for separate MX4SIO, USB, Apps and PS1 sections
-* Compatible with the latest versions of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
+* 💎 **Minimalist & Compact Design** - Clean, modern interface that emphasizes simplicity and elegance
+* 📊 **Game Data Display** - Show game information in a straightforward and intuitive way
+* 🎭 **Multiple Variants** - Choose between **Simple** or **Extended** layouts (with cover and screenshot display)
+* 🌈 **8 Color Options** - Wide range of color variants to personalize your experience
+* 📺 **Resolution Support** - Optimized for HD/Full-HD on both 16:9 and 4:3 aspect ratios
+* 📦 **Device Support** - Separate sections for MMCE, MX4SIO, USB, Apps, and PS1
+* ✅ **OPL 1.2+ Compatible** - Supports multiple OPL variants:
+  - [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
+  - [OPL MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)
+  - [OPL MMCE (rickgaiser)](https://github.com/rickgaiser/Open-PS2-Loader) 
 
 ## 🎨 Different Color Variants
 
-<p align="middle">
+<p align="center">
   <img width="50%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/ominence_colors.png"> 
 </p>
 
 #### 🌟 New Icons 🌟
 * Fav Icon for `Favourites` (for [uOPL](https://www.psx-place.com/resources/abandoned-unofficial-open-ps2-loader-uopl.1523/))
-* MMCE Icon for `MMCE Device` (for [OPL MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)) 
-<p align="middle">
+* MMCE Icon for `MMCE Device` (for [OPL MMCE](https://github.com/ps2-mmce/Open-PS2-Loader) & [OPL MMCE (rickgaiser)](https://github.com/rickgaiser/Open-PS2-Loader)) 
+<p align="center">
   <img width="50%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/ominence_new_icons.png"> 
 </p>
 
@@ -70,24 +68,24 @@
 
 #### Ominence
 
-<p align="middle">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot1.png"> 
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot3.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot5.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot7.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot9.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot11.png">
+<p align="center">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_1.png"> 
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_3.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_5.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_7.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_9.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_11.png">
 </p>
 
 #### Ominence Extended
 
-<p align="middle">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot2.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot4.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot6.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot8.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot10.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot12.png">  
+<p align="center">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_2.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_4.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_6.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_8.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_10.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_12.png">  
 </p>
 
 ## 💾 Installation
@@ -151,7 +149,13 @@ hdd0:/+OPL/THM/thm_Ominence/
 
 **4. Launch OPL, if it was already open, restart it.**
 
-**5. Go to OPL Settings and then `Display Settings`. In the 'Theme' option, find and select your theme, then click `OK` to apply it.**
+**5. Apply the Theme:** 
+  - Press <kbd>Start</kbd> to open `OPL Settings`
+  - Navigate to `Display Settings`
+  - Select the `Theme` option
+  - Using the <kbd>Up</kbd> and <kbd>Down</kbd> buttons on the D-Pad, find and select the `Ominence` theme from the list
+  - Press on `OK` to apply the Theme
+  - The theme will load immediately and take effect
 
 
 ## 💡 Recommendations
@@ -160,6 +164,10 @@ To enhance your experience with the theme, consider these recommendations:
 
 * Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
 * Download the assets for the `ART` folder (Background Image, Cover, Screenshots, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
-* Use **OPL Manager** to edit the `CFG` files for each game, to correctly display the description, rating and release.
-* Use `MM-DD-YYYY` or `MM/DD/YYYY` format for the release date in the Information section, for optimal display.
+* Use **OPL Manager** to edit the `CFG` files for each game, to correctly display the game information (Description, Rating and Release Date).
+* Use `DD-MM-YYYY` or `DD/MM/YYYY` format for the `release date` in the Information section, for optimal display.
 * Enable Widescreen mode in OPL Settings for better text visibility.
+  
+---
+
+**Made with ❤️ for the PS2 Community**
