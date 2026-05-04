@@ -45,7 +45,7 @@
 * 🎭 **Multiple Variants** - Choose between **Simple** or **Extended** layouts (with cover and screenshot display)
 * 🌈 **8 Color Options** - Wide range of color variants to personalize your experience
 * 📺 **Resolution Support** - Optimized for HD/Full-HD on both 16:9 and 4:3 aspect ratios
-* 📦 **Device Support** - Separate sections for MMCE, MX4SIO, USB, Apps, and PS1
+* 📦 **Device Support** - Separate sections for MMCE, MX4SIO, USB, Apps, POPS, etc.
 * ✅ **OPL 1.2+ Compatible** - Supports multiple OPL variants:
   - [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
   - [OPL MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)
@@ -75,6 +75,8 @@
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_7.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_9.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_11.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_13.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_15.png"> 
 </p>
 
 #### Ominence Extended
@@ -85,7 +87,9 @@
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_6.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_8.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_10.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_12.png">  
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_12.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_14.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Ominence/blob/main/assets/screenshots/screenshot_16.png">
 </p>
 
 ## 💾 Installation
